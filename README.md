@@ -1,1 +1,2 @@
-# Nodesforbeded
+# git使用及交叉编译技巧
+
